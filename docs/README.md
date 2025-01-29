@@ -1,6 +1,6 @@
 # DeepEyE AI Assistant for Burp Suite
 
-![logo](./docs/images/logo.png)
+![logo](./images/logo.png)
 
 ## Description
 
