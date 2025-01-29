@@ -1,0 +1,56 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno virtual
+venv/
+env/
+.venv/
+.env/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de configuración de IDEs
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Archivos de logs
+*.log
+
+# Archivos de compilación
+*.o
+*.so
+*.a
+*.out
+
+# Archivos de bases de datos
+*.sqlite3
+
+# Archivos de configuración de entorno
+.env
+*.env
+
+# Archivos de caché
+.cache/
+*.egg-info/
+.eggs/
+
+# Archivos de distribución
+dist/
+build/
+*.egg
+
+# Archivos de documentación generada
+docs/_build/
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints
+
+# Archivos de TensorFlow
+checkpoint
+.cursorrules
